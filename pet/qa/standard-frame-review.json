@@ -26,93 +26,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila/frames/idle/00.png",
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/idle-expansion/body-sway/frames/idle/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 6995,
+          "nontransparent_pixels": 7356,
           "bbox": [
-            65,
+            63,
             5,
-            126,
+            128,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 145
+          "chroma_adjacent_pixels": 143
         },
         {
           "index": 1,
-          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila/frames/idle/01.png",
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/idle-expansion/body-sway/frames/idle/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 7059,
+          "nontransparent_pixels": 7405,
           "bbox": [
-            65,
+            63,
             5,
-            126,
+            128,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 123
+          "chroma_adjacent_pixels": 157
         },
         {
           "index": 2,
-          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila/frames/idle/02.png",
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/idle-expansion/body-sway/frames/idle/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 7074,
+          "nontransparent_pixels": 7386,
           "bbox": [
-            65,
+            63,
             5,
-            126,
+            128,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 141
+          "chroma_adjacent_pixels": 147
         },
         {
           "index": 3,
-          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila/frames/idle/03.png",
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/idle-expansion/body-sway/frames/idle/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 7048,
+          "nontransparent_pixels": 7436,
           "bbox": [
-            65,
+            63,
             5,
-            126,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 141
-        },
-        {
-          "index": 4,
-          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila/frames/idle/04.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 7056,
-          "bbox": [
-            65,
-            5,
-            126,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 145
-        },
-        {
-          "index": 5,
-          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila/frames/idle/05.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 7026,
-          "bbox": [
-            65,
-            5,
-            126,
+            128,
             203
           ],
           "edge_pixels": 0,
           "chroma_adjacent_pixels": 148
+        },
+        {
+          "index": 4,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/idle-expansion/body-sway/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7371,
+          "bbox": [
+            63,
+            5,
+            128,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 144
+        },
+        {
+          "index": 5,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/idle-expansion/body-sway/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7329,
+          "bbox": [
+            63,
+            5,
+            128,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 146
         }
       ]
     },

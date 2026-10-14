@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A nose and mouth project left of the face center; B projects right, with the chin following the same turn."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A raised nose points left and visible eyes favor the left-facing profile; B nose and chin point right."},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A has a clear right-facing nose outline and gaze; B has the corresponding left-facing nose and gaze."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"At the relatively level pitch, A nose and chin protrude toward the left, while B protrudes right."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A downward-tilted face retains a right-pointing nose and rightward eye placement; B nose and eyes turn left."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"Despite the lowered chin, A visible nose is on the rightward face edge; B visible nose is on the leftward edge."},
+    {"pair":"horizontal-7","A":"ambiguous","B":"ambiguous","reason":"The steep bow and hair obscure the eyes and compress nose/chin separation at native size. A suggests right and B left, but the actual facial landmarks are too weak for a reliable direction classification."},
+    {"pair":"vertical-1","A":"down","B":"up","reason":"A eyes are mostly hidden beneath the hair and chin tucks toward the chest; B nose lifts and exposes the underside of the chin."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A gaze and nose angle toward the chest; B nose points upward and chin rises away from the chest."},
+    {"pair":"vertical-3","A":"up","B":"down","reason":"A eye line and nose lift with an extended chin; B eye line drops and chin folds downward."},
+    {"pair":"vertical-4","A":"down","B":"up","reason":"A eyes and nose angle slightly down and chin is tucked; B nose and eye line angle upward with a lifted chin."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A eyelids, nose and chin are lowered toward the chest; B face opens upward, nose rises and chin clears the neck."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A lowered nose and tucked chin place the gaze downward; B raised nose and extended chin create an upward gaze."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A left-facing profile has a depressed eye line and lowered chin; B left-facing profile lifts the nose and chin."}
+  ]
+}

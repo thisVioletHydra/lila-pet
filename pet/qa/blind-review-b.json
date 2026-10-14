@@ -4,85 +4,85 @@
       "pair": "horizontal-1",
       "A": "screen-left",
       "B": "screen-right",
-      "reason": "A nose and chin lie left of head center with the left facial outline exposed; B nose and chin lie right with the right facial outline exposed."
+      "reason": "A nose and chin project to screen-left of the eyes; B nose and chin project to screen-right."
     },
     {
       "pair": "horizontal-2",
       "A": "screen-left",
       "B": "screen-right",
-      "reason": "A eyes, protruding nose and raised chin point left; B corresponding facial landmarks point right."
+      "reason": "A nose tip points left with the visible cheek on the left; B nose tip and eye direction point right."
     },
     {
       "pair": "horizontal-3",
-      "A": "screen-left",
-      "B": "screen-right",
-      "reason": "A shows a leftward nose silhouette and chin; B shows a rightward nose silhouette and chin, with eyes following the face."
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A face profile, nose and raised chin point right; B face profile and nose point left."
     },
     {
       "pair": "horizontal-4",
       "A": "screen-left",
       "B": "screen-right",
-      "reason": "A visible eye, nose tip and mouth occupy the left edge of the face; B eye, nose tip and mouth occupy the right edge."
+      "reason": "A nose extends left of the visible eye; B nose extends right of the visible eye."
     },
     {
       "pair": "horizontal-5",
-      "A": "screen-left",
-      "B": "screen-right",
-      "reason": "Both faces tilt downward, but A nose and visible cheek project left while B nose and cheek project right."
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Despite the lowered head, A nose and exposed cheek point right; B nose and exposed cheek point left."
     },
     {
       "pair": "horizontal-6",
-      "A": "screen-left",
-      "B": "screen-right",
-      "reason": "Downward eyelids partially obscure gaze; A nose and chin angle left of the head midline, B nose and chin angle right."
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A lowered face has its nose and chin on the right side; B lowered face has its nose and chin on the left."
     },
     {
       "pair": "horizontal-7",
       "A": "screen-right",
       "B": "screen-left",
-      "reason": "A lowered face has its visible eye and nose on the right side; B lowered face has visible eye and nose on the left side."
+      "reason": "The downward pitch reduces clarity, but A visible nose/cheek sit to the right, while B visible nose/cheek sit to the left."
     },
     {
       "pair": "vertical-1",
       "A": "down",
       "B": "up",
-      "reason": "A crown dominates with eyelids and nose lowered and chin tucked; B chin is raised with an exposed neck and upward face plane."
+      "reason": "A eyes and nose are lowered beneath the hair with the chin tucked; B nose and chin lift and expose the neck."
     },
     {
       "pair": "vertical-2",
       "A": "down",
       "B": "up",
-      "reason": "A looks beneath heavy upper hair with lowered nose and tucked chin; B eyes and nose lift above a raised chin."
+      "reason": "A gaze and nose angle down and chin tucks; B gaze and nose angle upward with lifted chin."
     },
     {
       "pair": "vertical-3",
-      "A": "down",
-      "B": "up",
-      "reason": "A eyelids, nose and chin descend toward the chest; B eye line and nose ascend with the chin lifted."
+      "A": "up",
+      "B": "down",
+      "reason": "A raised nose/chin and upward eyes contrast with B lowered eyes/nose and tucked chin."
     },
     {
       "pair": "vertical-4",
-      "A": "up",
-      "B": "down",
-      "reason": "A rightward face lifts the nose and chin, eyes aimed above level; B rightward face lowers the nose and eye line, chin tucked."
+      "A": "down",
+      "B": "up",
+      "reason": "A nose and eye line angle slightly down with a lowered chin; B eye line and nose angle upward with raised chin."
     },
     {
       "pair": "vertical-5",
       "A": "down",
       "B": "up",
-      "reason": "A eyelids close downward beneath the crown with lowered chin; B leftward face raises chin and nose and exposes more neck."
+      "reason": "A chin drops toward the collar and eyes look down; B chin and nose lift with the face looking upward."
     },
     {
       "pair": "vertical-6",
       "A": "down",
       "B": "up",
-      "reason": "A visible eye and nose slope down toward the chest with crown exposed; B eye line rises, nose tips upward and chin lifts."
+      "reason": "A lowered eye line and tucked chin indicate down; B raised nose, eyes and chin indicate up."
     },
     {
       "pair": "vertical-7",
-      "A": "up",
-      "B": "down",
-      "reason": "A left profile has elevated eye line and lifted nose/chin; B left profile has lowered eyelids and nose with chin pulled toward the chest."
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes and nose angle down with a tucked chin; B eyes and nose angle upward and chin lifts."
     }
   ]
 }

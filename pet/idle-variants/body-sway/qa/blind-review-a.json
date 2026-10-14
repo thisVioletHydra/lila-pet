@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose and chin point left, with the visible eye on the left-facing face; B has the mirrored rightward nose and chin."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Raised faces retain a left-projecting nose in A and a right-projecting nose in B."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose profile projects toward the right edge; B nose profile projects toward the left edge."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A eye and nose sit on the left-facing side of the hair mass; B face and nose point right."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Despite downward pitch, A nose and chin are displaced rightward; B nose and chin are displaced leftward."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A lowered face exposes a small rightward nose tip; B lowered face exposes a leftward nose tip."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Direction is subtle at native size: A eye/nose cluster sits toward screen-right beneath the fringe; B eye/nose cluster sits toward screen-left."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes are lowered under the fringe and chin tucked; B nose tilts upward and chin is lifted with elongated visible neck."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A face points toward chest with lowered eyes; B raised nose and chin expose more neck."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A nose and chin angle upward with eyes lifted; B eyes and nose angle down toward chest."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes and nose slope downward with tucked chin; B face has raised eyes and upward nose profile."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A fringe obscures lowered eyes and chin tucks toward collar; B chin lifts with nose and gaze angled up."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A downward face and eyes point toward collar; B nose lifts and chin extends upward."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A nose angles downward and eyes look below horizon; B nose and eye line rise with a lifted chin."
+    }
+  ]
+}

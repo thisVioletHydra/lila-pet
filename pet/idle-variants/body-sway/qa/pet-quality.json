@@ -1,0 +1,63 @@
+{
+  "ok": true,
+  "atlas": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/outputs/lila-idle-expansion/body-sway/spritesheet.png",
+  "encoded_bytes": 1625297,
+  "sha256": "70e88da5891e9cc69e66666b347943994453040dfda47de2b5f879425912bf7d",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      195,
+      151,
+      190,
+      202
+    ],
+    "airborne_lift_pixels": 51,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      96.0,
+      96.0,
+      96.0,
+      95.0,
+      95.0,
+      95.0,
+      96.0,
+      95.5,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      95.5,
+      96.0,
+      96.0,
+      96.0
+    ],
+    "look_widths": [
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      63,
+      64,
+      64,
+      64,
+      64,
+      65,
+      64,
+      64,
+      64
+    ],
+    "maximum_center_drift_pixels": 0.5,
+    "maximum_width_ratio": 1.0317460317460319
+  },
+  "errors": [],
+  "warnings": [
+    "045->067.5 diff is a local outlier (951 pixels vs neighbor average 572)"
+  ]
+}

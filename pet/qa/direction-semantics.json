@@ -114,5 +114,6 @@
       "verdict": "pass",
       "evidence": "Head mostly raised with a small remaining leftward yaw and upper-left eyes; coherent next-up transition."
     }
-  ]
+  ],
+  "update_provenance": "Look rows preserved pixel-for-pixel from fetched existing pet; idle only changed."
 }

@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "input": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/idle-expansion/body-sway/idle-row-unclean.png",
+  "output": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/outputs/lila-idle-expansion/body-sway/idle-row.png",
+  "chroma_key": "#FF00FF",
+  "algorithm": "edge-local-chroma-spill-suppression",
+  "strength": 1,
+  "edge_radius": 5,
+  "spill_tolerance": 0.15,
+  "minimum_saturation": 0.1,
+  "changed_pixels": 9850,
+  "decontaminated_pixels": 7960,
+  "spill_suppressed_pixels": 9850,
+  "rejected_pixels": 0,
+  "changed_by_cell": {
+    "r0c2": 1665,
+    "r0c3": 1657,
+    "r0c0": 1642,
+    "r0c4": 1638,
+    "r0c1": 1625,
+    "r0c5": 1623
+  },
+  "alpha_preserved": true
+}

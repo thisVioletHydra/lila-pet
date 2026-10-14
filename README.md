@@ -10,3 +10,9 @@
 - `pet/pet.json` — идентификатор созданного питомца.
 
 Черновые изображения сохранены для истории; финальный установленный атлас — `pet/spritesheet.png`.
+
+## Дополнительные циклы простоя
+
+Четыре варианта в [`pet/idle-variants`](pet/idle-variants/README.md). Сейчас установлен `body-sway`.
+
+![Простой Лилы](pet/idle-variants/body-sway/idle.gif)

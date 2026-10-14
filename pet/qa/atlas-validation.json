@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/outputs/lila/spritesheet.png",
-  "encoded_bytes": 1618713,
-  "sha256": "d7304370b63d47e4b892555a0622dcf85389691934fdce693177b5e9cc05d6a3",
+  "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/outputs/lila-idle-expansion/body-sway/spritesheet.png",
+  "encoded_bytes": 1625297,
+  "sha256": "70e88da5891e9cc69e66666b347943994453040dfda47de2b5f879425912bf7d",
   "format": "PNG",
   "mode": "RGBA",
   "columns": 8,
@@ -19,7 +19,7 @@
       "row": 0,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 6995,
+      "nontransparent_pixels": 7356,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -28,7 +28,7 @@
       "row": 0,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 7059,
+      "nontransparent_pixels": 7405,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -37,7 +37,7 @@
       "row": 0,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 7074,
+      "nontransparent_pixels": 7386,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -46,7 +46,7 @@
       "row": 0,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 7048,
+      "nontransparent_pixels": 7436,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -55,7 +55,7 @@
       "row": 0,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 7056,
+      "nontransparent_pixels": 7371,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -64,7 +64,7 @@
       "row": 0,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 7026,
+      "nontransparent_pixels": 7329,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },

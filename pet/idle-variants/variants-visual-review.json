@@ -1,0 +1,25 @@
+{
+  "review_method": "Independent visual inspection of the three cleaned six-frame contact strips at native 192x208 cell size on their dark background. Ordered still-frame review; no playback or pixel-motion measurements were performed.",
+  "variants": {
+    "breathing": {
+      "verdict": "warning",
+      "observations": ["Six complete full-body poses; adult identity, lilac hair and wardrobe remain consistent.", "Feet and boots appear anchored across the row.", "Soft eyelid change is visible near the middle; shoulder and torso breathing is extremely subtle at native size.", "First and last poses appear closely matched; no conspicuous seam displacement is evident from the still sequence.", "No visible pink fringe on the dark background."],
+      "errors": [],
+      "warnings": ["This is the weakest motion variant: the native-size row appears almost stationary apart from the blink. Playback should establish whether the breathing reads clearly enough."]
+    },
+    "hair-sway": {
+      "verdict": "pass",
+      "observations": ["Six complete full-body poses preserve adult identity, clothing, hands and boot shape.", "Hair silhouette changes modestly between frames, particularly around the outer curls, with a soft middle blink.", "Feet remain visually anchored and overall body scale remains stable.", "First and last poses look closely matched, supporting a calm loop without an obvious endpoint snap.", "No visible pink edge fringe against the dark background."],
+      "errors": [],
+      "warnings": ["Hair-tip motion is intentionally modest; ordered stills support variation but smooth playback was not independently inspected."]
+    },
+    "head-tilt": {
+      "verdict": "pass",
+      "observations": ["Six complete poses with visibly changing head tilt and hair shape.", "Identity, mature proportions and ivory sweater/brown skirt/tights/boots are consistent.", "Boots remain on the same visual baseline and no step or lifted foot appears.", "Upper torso and shoulder silhouette follow the head slightly; the movement remains compatible with relaxed idle.", "First and last poses look close enough to avoid a conspicuous endpoint change in still-frame review.", "No visible pink fringe on the dark background."],
+      "errors": [],
+      "warnings": ["This variant moves the head and upper-body silhouette more than the others. Its rhythm and endpoint seam still require playback confirmation."]
+    }
+  },
+  "errors": [],
+  "warnings": ["This report evaluates cleaned source frames visually and does not replace encoded-atlas validation or animated-loop inspection."]
+}

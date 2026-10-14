@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "selected": "head-tilt",
+  "observations": [
+    "Six full-body poses form a calm neutral-tilt-blink-return-opposite-tilt-neutral loop.",
+    "Dark-background native-size inspection found no bright magenta fringe.",
+    "Hands attached, feet stable, mature identity and outfit retained.",
+    "All non-idle rows preserved pixel-for-pixel."
+  ]
+}

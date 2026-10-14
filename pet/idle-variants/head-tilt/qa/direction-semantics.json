@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "review_method": "Parent labeled native-size review plus three independent blind axis reviews, all 28 classifications correct by strict majority.",
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Chin raised and nose points upward; irises sit high under upper lids."
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Chin lifted with slightly rightward nose and right-shifted irises; neck exposed."
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Face yaws right while chin remains lifted; irises look toward upper-right."
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Nose and irises aim screen-right with chin still tilted above horizontal; upward eyelid cue remains."
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "evidence": "Nose points right, iris position rightward and side-facing cheek confirms horizontal right."
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Face aims right but chin starts dropping; upper lids lower and pupils aim below horizontal."
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Rightward nose with tucked chin and lowered eyes makes both axes visible."
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Mostly tucked downward head, with nose and visible iris still slightly screen-right."
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Chin tucked centrally toward chest; eyelids lowered with nose aimed below face center."
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Chin tucked and nose shifts slightly left; eyes point lower-left."
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Nose and face clearly leftward with down pitch and lowered lids."
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Head yaw screen-left with small downward chin angle; irises left and low."
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "Nose points left, both irises shift left and opposite cheek occlusion confirms yaw."
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Face yaws left with chin beginning to lift; pupils point left and above horizontal."
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Chin visibly raised and nose yaw left; upper-left iris alignment."
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Head mostly raised with a small remaining leftward yaw and upper-left eyes; coherent next-up transition."
+    }
+  ],
+  "update_provenance": "Look rows 9-10 preserved pixel-for-pixel from existing fetched pet. Idle row only changed."
+}
