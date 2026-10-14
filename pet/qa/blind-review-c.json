@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose and exposed face point toward the left edge with chin raised; B nose projects right with the cheek plane opening right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A raised nose tip and mouth are left of the face center; B raised nose tip and mouth point right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has a clear left-facing nose silhouette and leftward eye line; B has a right-facing nose silhouette and rightward eye line."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose projects left beside the visible eye and mouth; B nose projects right beside the visible eye and mouth."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A lowered face exposes its nose and mouth on the left side; B lowered face exposes its nose and mouth on the right side."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A lowered nose and chin sit left of the central hair part; B lowered nose and chin sit right of it."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A bowed face has its visible eye, nose and mouth directed right; B bowed face has the nose and mouth directed left."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A crown dominates and chin is tucked toward the chest; B face tilts upward, showing lifted nose and open neck below the chin."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes and nose are lowered beneath the hair with chin tucked; B nose is lifted and the face opens upward with exposed neck."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A nose and eye line angle toward the floor with chin lowered; B nose tip and eye line angle upward with chin lifted."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A right-facing nose tip and chin lift away from the chest; B right-facing eyes and nose angle downward and chin tucks closer to the chest."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A left-facing face drops toward the chest and crown is prominent; B chin and nose rise with visible neck beneath the jaw."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A left-facing nose and chin are lowered; B left-facing nose lifts and the jaw opens away from the chest."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A left-facing nose and eye line incline upward and neck is exposed; B left-facing nose and eye line incline downward and chin approaches the chest."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "directions": {
+    "000": {
+      "verdict": "pass",
+      "evidence": "Chin visibly raised, nose points upward, irises near upper eyelids."
+    },
+    "090": {
+      "verdict": "pass",
+      "evidence": "Nose and both irises shift screen-right, head yaw reveals left cheek."
+    },
+    "180": {
+      "verdict": "pass",
+      "evidence": "Chin tucked, upper eyelids low, face directed below chest line."
+    },
+    "270": {
+      "verdict": "pass",
+      "evidence": "Nose and irises shift screen-left with opposite cheek occlusion."
+    }
+  }
+}

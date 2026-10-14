@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "reviewer": "independent-standard-visual-worker",
+  "review_basis": "Exact spritesheet-standard.png cells shown in ordered native 192x208 montages, full contact sheet and idle face detail. Sequence inspection is ordered still review, not real-time video playback.",
+  "observations": {
+    "idle": "Clear eye closure in frames 2-3 and reopening in 4-5; small breathing variation. Arms remain relaxed, stable baseline.",
+    "running-right": "All faces and noses screen-right; leg swing and alternating near/far arm occlusion in 0-3 and 4-7. Stable scale and intact full bodies.",
+    "running-left": "All faces screen-left; visible passing/raised-leg and contact poses, alternating near/far arm occlusion. Independently generated.",
+    "waving": "Hand raises from resting to chest then open palm beside head and lowers. Connected wrists and hands, no detached wave effects.",
+    "jumping": "Starts crouched, rises, apex has both feet clearly airborne, descends and lands crouched on same ground baseline. Head size remains comparable to idle; compression comes from bent legs.",
+    "failed": "Head bows, hand reaches forehead, then chin and returns toward resting; coherent embarrassed/disappointed reaction.",
+    "waiting": "Hands clasp then rise toward chest and open palms outward asking for input, returns clasped. Distinct from review.",
+    "running": "Feet stay planted; folded arm and finger at chin with head/gaze changes convey thinking. No literal foot running.",
+    "review": "Hand at hip, downward inspection and blink/head tilt, distinct silhouette from thinking. Motion subtle but visible."
+  },
+  "errors": [],
+  "warnings": [
+    "Gait is a gentle short walking cadence rather than athletic running; appropriate directional drag semantics. Several contact poses are visually similar.",
+    "Review motion is restrained; changes are primarily face/head rather than large body gestures.",
+    "Native sprite has tall mature proportions with narrow face, so tiny facial detail is less readable than larger head mascot proportions; supplied identity preserved."
+  ],
+  "cross_state": "Same lilac-haired adult woman, ivory sweater, brown skirt/belt, tights/boots throughout. No new props or detached effects; no visible clipping. Idle-to-crouch-to-air-to-land-to-idle remains understandable with stable ground contact. Generated pose-perspective changes are small, no material scale pop visible in ordered montage."
+}

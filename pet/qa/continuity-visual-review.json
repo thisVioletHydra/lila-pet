@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "observations": [
+    "Inspected final ordered sixteen-frame loop at native size. Feet and lower torso stay anchored; no reversal, clipping or visible scale pop.",
+    "045 to 067.5 automated local pixel-difference outlier reviewed: natural increasing rightward head yaw; no visible registration jump.",
+    "157.5 to 180 and 337.5 to 000 preserve smooth diagonal-to-cardinal transitions.",
+    "Final alpha-edge comparison on dark background confirms magenta fringe suppression."
+  ]
+}

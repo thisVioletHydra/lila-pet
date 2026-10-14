@@ -1,0 +1,1 @@
+Create and select Lila from the user-approved anime woman. Preserve face, hair, mature proportions and outfit. User explicitly authorized local storage instead of Library. Show final motion before upload; validate exact bytes and verify active pet ID.

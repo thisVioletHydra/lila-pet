@@ -1,0 +1,11 @@
+{
+  "id": "pet_6acf72b6c73c81918c2dec09eafa9091",
+  "name": "Лила",
+  "description": "Аниме-компаньон с лиловыми волосами, кремовым свитером и тёмной юбкой.",
+  "is_custom": true,
+  "is_active": true,
+  "verified_by": "select_pet response and fully paginated list_pets",
+  "spritesheet": "spritesheet.png",
+  "sha256": "d7304370b63d47e4b892555a0622dcf85389691934fdce693177b5e9cc05d6a3",
+  "artifact_storage": "Local files instead of Library, explicitly authorized by user"
+}
