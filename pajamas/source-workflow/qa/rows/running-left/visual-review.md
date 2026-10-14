@@ -1,0 +1,4 @@
+Status: pass, grounded independent clothing edit of approved daytime leftward strip.
+Eight complete separated poses face screen-left; nose and slippers point left throughout. Adult face/hair/body proportions and lavender long pajamas/cream slippers preserved. Single breast pocket stays visible on the canonical anatomical side. No props, shadows, text or detached effects; stable baseline and scale.
+Bundled extraction and inspection return ok true without warnings.
+Native 192x208 frames 00, 02 and 05 inspected. Frame00 foreground arm trails toward screen-right while opposite arm reaches left; foreground leg reaches screen-left. Frames02/05 foreground arm reaches left and foreground leg trails toward right, showing opposing limb roles. Lifted trailing slippers in intermediate phases produce visible gentle walking cadence. Temporal sequence retained from independent daytime target, not a mirrored rightward strip.

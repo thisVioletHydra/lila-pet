@@ -16,3 +16,9 @@
 Четыре варианта в [`pet/idle-variants`](pet/idle-variants/README.md). Сейчас установлен `body-sway`.
 
 ![Простой Лилы](pet/idle-variants/body-sway/idle.gif)
+
+## Ночной образ
+
+[Лила в пижаме](pajamas/README.md), с полными анимациями и проверками. [Расписание по Бишкеку](schedule.md): дневной образ с 08:00, пижама с 22:00.
+
+![Лила в пижаме](pajamas/previews/idle.gif)

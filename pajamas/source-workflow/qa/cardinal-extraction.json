@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/decoded/look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        470,
+        836
+      ],
+      "used_pixels": 118643,
+      "edge_pixels": 0,
+      "output": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/decoded/look-anchors/000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        470,
+        0,
+        940,
+        836
+      ],
+      "used_pixels": 118683,
+      "edge_pixels": 0,
+      "output": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/decoded/look-anchors/090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        940,
+        0,
+        1411,
+        836
+      ],
+      "used_pixels": 117896,
+      "edge_pixels": 0,
+      "output": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/decoded/look-anchors/180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1411,
+        0,
+        1881,
+        836
+      ],
+      "used_pixels": 118661,
+      "edge_pixels": 0,
+      "output": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/decoded/look-anchors/270.png"
+    }
+  ]
+}

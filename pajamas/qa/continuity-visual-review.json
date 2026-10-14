@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "observations": [
+    "All labeled native-size directions form the required clockwise loop with anchored lower body.",
+    "157.5 to180 automated pixel-difference warning reviewed: small face/body detail changes across generated families without material registration jump or wrong direction.",
+    "Three independent blind reviews pass by strict majority, all fourteen axis pairs confirmed.",
+    "Final cleaned contact and motion stills show no bright magenta edge artifacts."
+  ]
+}

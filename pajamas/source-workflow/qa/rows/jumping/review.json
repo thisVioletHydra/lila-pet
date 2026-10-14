@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "frames_root": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/qa/rows/jumping/frames",
+  "states": [
+    "jumping"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/qa/rows/jumping/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7436,
+          "bbox": [
+            48,
+            48,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 238
+        },
+        {
+          "index": 1,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/qa/rows/jumping/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7756,
+          "bbox": [
+            49,
+            22,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 243
+        },
+        {
+          "index": 2,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/qa/rows/jumping/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7664,
+          "bbox": [
+            39,
+            5,
+            152,
+            161
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 253
+        },
+        {
+          "index": 3,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/qa/rows/jumping/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7695,
+          "bbox": [
+            39,
+            28,
+            152,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 231
+        },
+        {
+          "index": 4,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/qa/rows/jumping/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7483,
+          "bbox": [
+            42,
+            49,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 240
+        }
+      ]
+    }
+  ]
+}

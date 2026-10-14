@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "pixel_rgba_match": true,
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "local_sha256": "cc277c8c77eee89c6714069ed83d00a3850db4efbc2a00a50e677cf7418b3e40",
+  "stored_sha256": "cb0b067f6e97438e14a04412d616fb2af6cce39eb5b8bd11ba2612b59f746d45",
+  "note": "Pets may re-encode PNG; decoded pixels match exactly."
+}

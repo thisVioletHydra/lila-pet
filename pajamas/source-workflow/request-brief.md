@@ -1,0 +1,1 @@
+Create and select separate night-time Lila in opaque lavender pajamas, retaining existing face/hair/mature proportions. User requests switching by Asia/Bishkek time; default night22:00-08:00. Preserve day pet ID pet_6acf72b6c73c81918c2dec09eafa9091. All QA and previews stored locally instead of Library by standing user authorization.

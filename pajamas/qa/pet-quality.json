@@ -1,0 +1,63 @@
+{
+  "ok": true,
+  "atlas": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/outputs/lila-pajamas/spritesheet.png",
+  "encoded_bytes": 1605036,
+  "sha256": "cc277c8c77eee89c6714069ed83d00a3850db4efbc2a00a50e677cf7418b3e40",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      200,
+      159,
+      189,
+      202
+    ],
+    "airborne_lift_pixels": 43,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      96.0,
+      95.0,
+      95.0,
+      94.5,
+      95.0,
+      94.0,
+      93.0,
+      93.0,
+      96.5,
+      96.5,
+      97.5,
+      97.5,
+      97.5,
+      96.5,
+      96.5,
+      96.5
+    ],
+    "look_widths": [
+      50,
+      50,
+      50,
+      51,
+      50,
+      50,
+      50,
+      50,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51,
+      51
+    ],
+    "maximum_center_drift_pixels": 2.5,
+    "maximum_width_ratio": 1.02
+  },
+  "errors": [],
+  "warnings": [
+    "157.5->180 diff is a local outlier (1195 pixels vs neighbor average 714)"
+  ]
+}

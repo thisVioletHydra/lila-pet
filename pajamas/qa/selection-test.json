@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "transitions": [
+    {
+      "requested": "pet_6acfd692d3b881918a0a8b8a64b075b3",
+      "active_pet_id": "pet_6acfd692d3b881918a0a8b8a64b075b3"
+    },
+    {
+      "requested": "pet_6acf72b6c73c81918c2dec09eafa9091",
+      "active_pet_id": "pet_6acf72b6c73c81918c2dec09eafa9091"
+    },
+    {
+      "requested": "pet_6acfd692d3b881918a0a8b8a64b075b3",
+      "active_pet_id": "pet_6acfd692d3b881918a0a8b8a64b075b3"
+    }
+  ],
+  "final_active_pet_id": "pet_6acfd692d3b881918a0a8b8a64b075b3",
+  "scheduled_run_verified": false
+}

@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7576,
+          "bbox": [
+            69,
+            5,
+            122,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 250
+        },
+        {
+          "index": 1,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7733,
+          "bbox": [
+            69,
+            5,
+            122,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 228
+        },
+        {
+          "index": 2,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7523,
+          "bbox": [
+            69,
+            5,
+            122,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 224
+        },
+        {
+          "index": 3,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7521,
+          "bbox": [
+            69,
+            5,
+            122,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 245
+        },
+        {
+          "index": 4,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7475,
+          "bbox": [
+            69,
+            5,
+            122,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 226
+        },
+        {
+          "index": 5,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7528,
+          "bbox": [
+            69,
+            5,
+            122,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 270
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8040,
+          "bbox": [
+            49,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 451
+        },
+        {
+          "index": 1,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7107,
+          "bbox": [
+            59,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 384
+        },
+        {
+          "index": 2,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6388,
+          "bbox": [
+            62,
+            5,
+            128,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 294
+        },
+        {
+          "index": 3,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7698,
+          "bbox": [
+            49,
+            5,
+            142,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 403
+        },
+        {
+          "index": 4,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7958,
+          "bbox": [
+            49,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 428
+        },
+        {
+          "index": 5,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7168,
+          "bbox": [
+            56,
+            5,
+            134,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 395
+        },
+        {
+          "index": 6,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6386,
+          "bbox": [
+            63,
+            5,
+            128,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 305
+        },
+        {
+          "index": 7,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7793,
+          "bbox": [
+            49,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 430
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8106,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 514
+        },
+        {
+          "index": 1,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7255,
+          "bbox": [
+            60,
+            5,
+            132,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 421
+        },
+        {
+          "index": 2,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6509,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 330
+        },
+        {
+          "index": 3,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7966,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 474
+        },
+        {
+          "index": 4,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7859,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 473
+        },
+        {
+          "index": 5,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7585,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 439
+        },
+        {
+          "index": 6,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7534,
+          "bbox": [
+            53,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 471
+        },
+        {
+          "index": 7,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7978,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 513
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7338,
+          "bbox": [
+            69,
+            5,
+            122,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 198
+        },
+        {
+          "index": 1,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7760,
+          "bbox": [
+            64,
+            5,
+            127,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 213
+        },
+        {
+          "index": 2,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7742,
+          "bbox": [
+            64,
+            5,
+            127,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        },
+        {
+          "index": 3,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7587,
+          "bbox": [
+            64,
+            5,
+            127,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 198
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7436,
+          "bbox": [
+            48,
+            48,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 238
+        },
+        {
+          "index": 1,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7756,
+          "bbox": [
+            49,
+            22,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 243
+        },
+        {
+          "index": 2,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7664,
+          "bbox": [
+            39,
+            5,
+            152,
+            161
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 253
+        },
+        {
+          "index": 3,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7695,
+          "bbox": [
+            39,
+            28,
+            152,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 231
+        },
+        {
+          "index": 4,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7483,
+          "bbox": [
+            42,
+            49,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 240
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7517,
+          "bbox": [
+            69,
+            5,
+            123,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 259
+        },
+        {
+          "index": 1,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7517,
+          "bbox": [
+            69,
+            5,
+            123,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 273
+        },
+        {
+          "index": 2,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7556,
+          "bbox": [
+            69,
+            5,
+            123,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 256
+        },
+        {
+          "index": 3,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7559,
+          "bbox": [
+            69,
+            5,
+            123,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 285
+        },
+        {
+          "index": 4,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7648,
+          "bbox": [
+            68,
+            5,
+            124,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 289
+        },
+        {
+          "index": 5,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7626,
+          "bbox": [
+            68,
+            5,
+            124,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 278
+        },
+        {
+          "index": 6,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7521,
+          "bbox": [
+            70,
+            5,
+            122,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 287
+        },
+        {
+          "index": 7,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7467,
+          "bbox": [
+            69,
+            5,
+            122,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 269
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7752,
+          "bbox": [
+            68,
+            5,
+            124,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 261
+        },
+        {
+          "index": 1,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7888,
+          "bbox": [
+            67,
+            5,
+            125,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 281
+        },
+        {
+          "index": 2,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7901,
+          "bbox": [
+            67,
+            5,
+            125,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 260
+        },
+        {
+          "index": 3,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7786,
+          "bbox": [
+            68,
+            5,
+            124,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 253
+        },
+        {
+          "index": 4,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8026,
+          "bbox": [
+            64,
+            5,
+            128,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 284
+        },
+        {
+          "index": 5,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7702,
+          "bbox": [
+            68,
+            5,
+            124,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 255
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7489,
+          "bbox": [
+            68,
+            5,
+            124,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 346
+        },
+        {
+          "index": 1,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7455,
+          "bbox": [
+            69,
+            5,
+            123,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 338
+        },
+        {
+          "index": 2,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7522,
+          "bbox": [
+            68,
+            5,
+            124,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 338
+        },
+        {
+          "index": 3,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7470,
+          "bbox": [
+            68,
+            5,
+            124,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 306
+        },
+        {
+          "index": 4,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7450,
+          "bbox": [
+            68,
+            5,
+            124,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 292
+        },
+        {
+          "index": 5,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7399,
+          "bbox": [
+            68,
+            5,
+            123,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 316
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7772,
+          "bbox": [
+            62,
+            5,
+            129,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 288
+        },
+        {
+          "index": 1,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7412,
+          "bbox": [
+            62,
+            14,
+            129,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 293
+        },
+        {
+          "index": 2,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7809,
+          "bbox": [
+            62,
+            5,
+            129,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 328
+        },
+        {
+          "index": 3,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7834,
+          "bbox": [
+            62,
+            5,
+            129,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 311
+        },
+        {
+          "index": 4,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7723,
+          "bbox": [
+            62,
+            5,
+            129,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 319
+        },
+        {
+          "index": 5,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7777,
+          "bbox": [
+            62,
+            5,
+            129,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 299
+        }
+      ]
+    }
+  ]
+}

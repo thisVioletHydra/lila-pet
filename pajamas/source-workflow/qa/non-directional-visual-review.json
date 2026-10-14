@@ -1,0 +1,55 @@
+{
+  "scope": [
+    "idle",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "method": "Visual inspection of all extracted native 192x208 frames in ordered sequence; no playback claims, movement rows excluded.",
+  "ok": true,
+  "failures": [],
+  "warnings": [
+    "Residual magenta edge spill visible before planned parent despill; not classified as identity failure.",
+    "Ordered still inspection verifies poses and endpoint continuity; final atlas playback remains necessary."
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "verdict": "pass",
+      "observations": "Six complete full bodies, stable slippers and scale, calm eyes close/reopen with slight head and hair changes. First and last nearly match; adult face and lavender pajamas consistent."
+    },
+    {
+      "state": "waving",
+      "verdict": "pass",
+      "observations": "Four complete poses. Hand raises attached to forearm, wrist changes wave direction, lowers before restart. Feet stable, no detached effects; last-to-first small hand settling transition."
+    },
+    {
+      "state": "jumping",
+      "verdict": "pass",
+      "observations": "Five complete poses: crouch, lift, peak, descent, landing. Native peak bottom y161 versus y203 initial/landing, 42px airborne lift. Head rises too, apparent anatomy consistent despite bent knees. Landed crouch closes to initial crouch without baseline jump."
+    },
+    {
+      "state": "failed",
+      "verdict": "pass",
+      "observations": "Eight complete poses, lowered gaze and shoulders then attached hand on forehead before recovery. Foot baseline stable, head/face consistent. Clear mild disappointment distinct from idle; first and last resting endpoints close."
+    },
+    {
+      "state": "waiting",
+      "verdict": "pass",
+      "observations": "Six complete poses: relaxed start, clasped hands near chest, expectant upturned open palms, relaxed return. Hands attached, pajamas and face consistent, feet planted; first and last close."
+    },
+    {
+      "state": "running",
+      "verdict": "pass",
+      "observations": "Six thoughtful processing poses with fingertips at chin and supporting opposite arm, gaze scans and blink/head tilt. No locomotion. Feet planted, full bodies unclipped, endpoints close."
+    },
+    {
+      "state": "review",
+      "verdict": "pass",
+      "observations": "Six inspecting poses with hand at waist, forward lean, alternating head tilt and satisfied nod. Distinct from waiting open palms and active-work chin-touch. Feet planted, scale consistent and endpoints close."
+    }
+  ]
+}

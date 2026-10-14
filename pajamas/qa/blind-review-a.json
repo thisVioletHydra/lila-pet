@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose tip and mouth project left of face center; B nose tip and visible chin project right, with eyes following."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A exposed nose profile points left and visible eye sits on left-facing facial plane; B nose and eye plane point right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose tip extends left of mouth/chin; B nose tip extends right and the far eye is reduced by the turned face."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose and chin outline face right; B nose outline and mouth project left."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Both heads pitch downward; A nose and lower face angle toward screen right, while B nose and cheek opening angle left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "In the lowered faces, A nose/mouth sit leftward beneath the eyes and chin angles left; B nose/mouth shift rightward and chin angles right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A lowered nose tip and chin point left of the head midline; B lowered nose/chin point right, with the eye plane facing right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A chin is raised, neck visible and eyes/nose tilt upward; B eyes are lowered under the fringe and chin tucks toward chest."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A crown is prominent, eyes cast down and chin approaches chest; B nose tilts up and the raised chin exposes neck."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes and nose point down beneath forehead and chin is tucked; B eye line and nose tilt upward with extended neck."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A eye line and nose slope downward with lower chin; B nose tip is raised, chin lifts and neck opens beneath the jaw."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes are downcast and chin folded toward neckline; B nose points up and lifted chin exposes underside/neck."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A bowed forehead obscures the lowered eyes and chin tucks inward; B nose rises above mouth and chin extends upward."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A lowered eye plane and nose sit under the dominant forehead with tucked chin; B eye/nose plane tilts up and chin is raised."
+    }
+  ]
+}

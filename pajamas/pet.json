@@ -1,0 +1,13 @@
+{
+  "id": "pet_6acfd692d3b881918a0a8b8a64b075b3",
+  "name": "Лила в пижаме",
+  "description": "Ночной образ Лилы: лиловая пижама с кремовой отделкой и мягкие тапочки.",
+  "is_custom": true,
+  "is_active": true,
+  "verified_by": "create_pet, bidirectional select_pet test, fully paginated list_pets and exact stored RGBA match",
+  "spritesheet": "spritesheet.png",
+  "sha256": "cc277c8c77eee89c6714069ed83d00a3850db4efbc2a00a50e677cf7418b3e40",
+  "role": "night",
+  "timezone": "Asia/Bishkek",
+  "artifact_storage": "Local storage authorized instead of Library"
+}

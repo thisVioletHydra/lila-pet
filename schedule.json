@@ -1,0 +1,14 @@
+{
+  "timezone": "Asia/Bishkek",
+  "day_start": "08:00",
+  "night_start": "22:00",
+  "day_pet_id": "pet_6acf72b6c73c81918c2dec09eafa9091",
+  "night_pet_id": "pet_6acfd692d3b881918a0a8b8a64b075b3",
+  "automation_id": "automation",
+  "automation_status": "ACTIVE",
+  "manual_bidirectional_test": "passed",
+  "scheduled_run_verified": false,
+  "configured_at": "2026-10-15T01:27:17.827360+06:00",
+  "current_active_at_verification": "pet_6acfd692d3b881918a0a8b8a64b075b3",
+  "manually_selected_unrelated_pet": "preserve"
+}

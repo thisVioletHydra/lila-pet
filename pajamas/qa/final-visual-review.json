@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "observations": [
+    "Final contact and direction sheets preserve face, lavender pajamas, cream piping and slippers.",
+    "Head pitch/yaw supplies all sixteen required directions with frontal lower body fixed.",
+    "Adjacent upper-right poses and final two upper-left poses are subtle but retain correct quadrant and order.",
+    "No bright magenta edge fringe seen on final rendered cells.",
+    "Standard motion uses coherent four-phase walking repeated twice; jump has clear upward displacement and same landing baseline."
+  ]
+}

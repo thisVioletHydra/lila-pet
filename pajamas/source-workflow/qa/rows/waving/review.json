@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "frames_root": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/qa/rows/waving/frames",
+  "states": [
+    "waving"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/qa/rows/waving/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7338,
+          "bbox": [
+            69,
+            5,
+            122,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 198
+        },
+        {
+          "index": 1,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/qa/rows/waving/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7760,
+          "bbox": [
+            64,
+            5,
+            127,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 213
+        },
+        {
+          "index": 2,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/qa/rows/waving/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7742,
+          "bbox": [
+            64,
+            5,
+            127,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        },
+        {
+          "index": 3,
+          "file": "/Users/mirajana/Documents/Codex/2026-10-14/pets-plugin-work-pets-openai-curated-5/work/lila-pajamas/qa/rows/waving/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7587,
+          "bbox": [
+            64,
+            5,
+            127,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 198
+        }
+      ]
+    }
+  ]
+}

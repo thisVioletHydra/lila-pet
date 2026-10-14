@@ -3,10 +3,11 @@
   "name": "Лила",
   "description": "Аниме-компаньон с лиловыми волосами, кремовым свитером и тёмной юбкой.",
   "is_custom": true,
-  "is_active": true,
+  "is_active": false,
   "verified_by": "update_pet, list_pets active state and exact RGBA pixel match with stored download",
   "spritesheet": "spritesheet.png",
   "sha256": "70e88da5891e9cc69e66666b347943994453040dfda47de2b5f879425912bf7d",
   "artifact_storage": "Local files instead of Library, explicitly authorized by user",
-  "idle_variant": "body-sway"
+  "idle_variant": "body-sway",
+  "active_state_verified_at": "2026-10-15T01:27:17.827360+06:00"
 }

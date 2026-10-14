@@ -1,0 +1,98 @@
+{
+  "ok": true,
+  "scope": "Ordered-frame visual QA of exact spritesheet-standard.png before parent chroma cleanup; not final upload acceptance",
+  "artifact": "final/spritesheet-standard.png",
+  "method": "Exact native 192x208 cell rows cropped without resizing and visually inspected in ordered montages. No real-time playback performed.",
+  "observations": [
+    "All nine standard rows have required complete poses with consistent adult Lila face, lilac wavy hair, earrings, mature proportions, lavender full-length pajamas and cream slippers.",
+    "No visible clipped limbs, neighboring-frame bleed, props, labels or detached motion effects. All populated cells have safe padding; unused cells visibly empty.",
+    "Long sleeves, cream trim, front buttons and breast pocket remain recognizable; no skirt, boots or belt reappear."
+  ],
+  "errors": [],
+  "warnings": [
+    "Bright magenta edge fringe remains visible around hair and clothing across rows; parent cleanup is pending and this report does not approve final alpha quality.",
+    "Idle and active-thinking motion are deliberately subtle at native size; ordered poses show eye/head variation but this review does not certify perceived timing.",
+    "Rightward gait repeats a four-phase cadence twice, accepted by parent; no requirement for eight unique phases.",
+    "Jump row begins/ends crouched. Ordered endpoints return to same landing baseline, but idle-to-jump-to-idle transition playback was not performed."
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "ok": true,
+      "observations": [
+        "Six calm grounded poses, slight eye blink/head/expression variation, hands together and feet fixed; no walk/wave drift.",
+        "Last-to-first poses remain close in head/body registration."
+      ]
+    },
+    {
+      "state": "running-right",
+      "ok": true,
+      "observations": [
+        "Eight right-facing poses, nose and slippers point right.",
+        "Foreground arm/leg roles alternate between frames00/04 and03/07, lifted trailing slippers in between; no static one-leg stride.",
+        "Scale and baseline coherent, apart from small natural foot/bob changes; seam07-to00 maintains opposing contact phases."
+      ]
+    },
+    {
+      "state": "running-left",
+      "ok": true,
+      "observations": [
+        "Eight left-facing poses, nose and slippers point left.",
+        "Foreground roles visibly change in00 versus02/05; intermediate raised trailing slipper supports movement.",
+        "Independent leftward identity and pocket retained, stable scale and baseline; last-to-first contact silhouettes coherent."
+      ]
+    },
+    {
+      "state": "waving",
+      "ok": true,
+      "observations": [
+        "Four poses: lowered hand, raised open greeting hand, tilted hand, lowering hand; hand remains attached.",
+        "Fixed feet/baseline; last lowering pose returns toward first neutral."
+      ]
+    },
+    {
+      "state": "jumping",
+      "ok": true,
+      "observations": [
+        "Five poses form crouch, lift, highest airborne pose, descent, crouched landing.",
+        "Apex feet visibly leave landing baseline; size/body volume remain consistent with bent-knee foreshortening.",
+        "First/last crouches share ground level and similar compact silhouette; no floor effects."
+      ]
+    },
+    {
+      "state": "failed",
+      "ok": true,
+      "observations": [
+        "Eight poses show downward head/eyes, then forehead touch with closed eyes, returning subdued upright.",
+        "Readable disappointment/facepalm; no floating symbols or tears.",
+        "Stable scale/baseline and close ending/starting stance."
+      ]
+    },
+    {
+      "state": "waiting",
+      "ok": true,
+      "observations": [
+        "Six poses: hands together, clasped expectant request, palms open asking, neutral return.",
+        "Meaning differs from idle/inspection/thinking; feet remain fixed and endpoints match."
+      ]
+    },
+    {
+      "state": "running",
+      "ok": true,
+      "observations": [
+        "Six focused thinking poses, attached hand at chin, folded opposite arm, subtle gaze/head changes.",
+        "No foot-running or directional travel; distinct from waiting and review.",
+        "Stable registration and loop endpoint similarity."
+      ]
+    },
+    {
+      "state": "review",
+      "ok": true,
+      "observations": [
+        "Six inspection poses with hand at hip and head looking down, upright, tilted and blinking.",
+        "Feet/torso remain grounded while head examines; no added inspection prop.",
+        "Endpoint heads/stance close enough for ordered loop seam review."
+      ]
+    }
+  ]
+}

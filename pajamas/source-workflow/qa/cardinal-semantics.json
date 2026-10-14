@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "directions": {
+    "000": {
+      "verdict": "pass",
+      "evidence": "Chin raised; nose lifted and pupils directed toward upper lids."
+    },
+    "090": {
+      "verdict": "pass",
+      "evidence": "Nose and visible iris clearly screen-right; natural cheek occlusion."
+    },
+    "180": {
+      "verdict": "pass",
+      "evidence": "Chin tucked centrally, eyelids lower, gaze aimed down."
+    },
+    "270": {
+      "verdict": "pass",
+      "evidence": "Nose and visible iris clearly screen-left, opposite cheek profile."
+    }
+  }
+}
